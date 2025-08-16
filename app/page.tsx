@@ -146,7 +146,7 @@ const MessageSquareIcon = ({ className }: { className?: string }) => (
 )
 // EMAIL JS CODE TO BE ADDED
 function emailjs(){
-  alert("hiii")
+  alert("Message sent successfully")
 }
 
 export default function Portfolio() {
@@ -398,7 +398,7 @@ export default function Portfolio() {
 
               <p className="text-lg text-gray-700 leading-relaxed hover:text-gray-900 transition-colors duration-300">
                 By 2025, my goal is to build a well-rounded portfolio showcasing expertise in DSA, Android development,
-                dropshipping, and content creation.
+                 and content creation.
               </p>
             </div>
 
